@@ -9,6 +9,8 @@ namespace vs_github_extension
         public UsrInfo()
         {
             Console.WriteLine("userinfo class");
+
+            // modify sprint1
         }
     }
 }
