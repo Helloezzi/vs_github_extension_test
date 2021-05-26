@@ -7,6 +7,8 @@ namespace vs_github_extension
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("This is develop branch");
         }
     }
 }
